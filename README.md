@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @towerbrother aka Giorgio Torre
+- :round_pushpin: I'm an :it:/:gb: software engineer 
+- :house: I'm currently based in Munich, Germany
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning typescript and working on my personal site
+- 📫 How to reach me:
+  - :email: giorgio.torre8@gmail.com
+  - :arrow_up: www.linkedin.com/in/giorgiotorre

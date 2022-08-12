@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @towerbrother aka Giorgio Torre
 - :round_pushpin: I'm an :it:/:gb: software engineer 
 - :house: I'm currently based in Munich, Germany
-- 👀 I’m interested in web development
-- 🌱 I’m currently working with Next.js, Remix.Run and redux
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working with Next.js, TypeScript and Redux
+- :search: I'm eager to learn always more and I value flexibility and independence in my work 
 - 📫 How to reach me:
   - :email: giorgio.torre8@gmail.com
   - :arrow_up: www.linkedin.com/in/giorgiotorre

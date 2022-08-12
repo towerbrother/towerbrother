@@ -3,7 +3,7 @@
 - :house: I'm currently based in Munich, Germany
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working with Next.js, TypeScript and Redux
-- :fu: I'm eager to learn always more and I value flexibility and independence in my work 
+- :fu:  I'm eager to always learn & I value flexibility and independence in my work
 - 📫 How to reach me:
   - :email: giorgio.torre8@gmail.com
   - :arrow_up: www.linkedin.com/in/giorgiotorre

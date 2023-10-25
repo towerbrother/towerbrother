@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @towerbrother aka Giorgio Torre
-- :round_pushpin: I'm an :it:/:gb: software engineer 
+- :round_pushpin: I'm an :it:/:gb: software developer 
 - :house: I'm currently based in Munich, Germany
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working with Next.js, TypeScript and Redux

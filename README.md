@@ -1,12 +1,11 @@
-Hi 👋, I’m Giorgio!
+Hi 👋, I'm Giorgio
+🇮🇹🇬🇧 Software developer based in Munich, Germany.
+I shifted from project management to development to build solutions that matter — working hands-on and impacting thousands of users.
+What drives me:
+Problem-solving, ownership, collaboration, and turning challenges into wins.
+Interests:
+👨‍👩‍👧‍👦 Family | 💰 Personal finance | 💪 Health & fitness | 🍝 Food | ⚽ Sports | 🌐 All things web
 
-I'm an :it:/:gb: software developer, currently based in Munich, Germany. 
-
-Shifting from project management to software development was a conscious choice driven by my desire to be hands-on and create impactful solutions. I'm passionate about problem-solving and take immense satisfaction in seeing my work benefit hundreds, if not thousands, of users.
-
-I value flexibility and independence in my work. I am known for my strong communication skills, project ownership and collaborative nature. Embracing challenges as opportunities and a relentless pursuit of excellence and success define my approach.
-
-How to reach me:
-  - 📧 giorgio.torre8@gmail.com
-  - ↗️ [LinkedIn](www.linkedin.com/in/giorgiotorre)
-  - 💻 [Portfolio](https://giorgio-portfolio-zeta.vercel.app/)
+Reach me:
+📧 giorgio.torre8@gmail.com
+💼  [LinkedIn](www.linkedin.com/in/giorgiotorre)
